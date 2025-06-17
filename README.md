@@ -11,6 +11,7 @@
 ## Project Structure
 
 TodoApp/
+
 ├── TodoApp.sln
 
 ├── TodoApp.API/
