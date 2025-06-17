@@ -10,7 +10,7 @@
 
 ## Project Structure
 
-TodoApp/
+TTodoApp/
 ├── TodoApp.sln
 ├── TodoApp.API/
 ├── TodoApp.Application/
