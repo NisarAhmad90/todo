@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# Fullstack ToDo App with Clean Archit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Technologies Used
 
-## Available Scripts
+- **Frontend**: ReactJS + TypeScript + Bootstrap 5  
+- **Backend**: ASP.NET Core (.NET 8)  
+- **Architecture**: Clean Architecture  
+- **Database**: SQLite (EF Core)  
+- **IDE**: Visual Studio 2022 and vs code
 
-In the project directory, you can run:
+## Project Structure
+
+TodoApp/
+├── TodoApp.sln
+├── TodoApp.API/ # ASP.NET Core Web API
+├── TodoApp.Application/ # Business Logic
+├── TodoApp.Domain/ # Core Domain
+├── TodoApp.Infrastructure/ # EF Core + SQLite
+└── todoapp-client/ # React Frontend
 
 ### `npm start`
 
