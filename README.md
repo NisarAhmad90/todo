@@ -10,12 +10,17 @@
 
 ## Project Structure
 
-TTodoApp/
+TodoApp/
 ├── TodoApp.sln
+
 ├── TodoApp.API/
+
 ├── TodoApp.Application/
+
 ├── TodoApp.Domain/
+
 ├── TodoApp.Infrastructure/
+
 └── todoapp-client/
 
 ## Setup Instructions
