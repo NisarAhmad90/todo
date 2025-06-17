@@ -12,11 +12,11 @@
 
 TodoApp/
 ├── TodoApp.sln
-├── TodoApp.API/ # ASP.NET Core Web API
-├── TodoApp.Application/ # Business Logic
-├── TodoApp.Domain/ # Core Domain
-├── TodoApp.Infrastructure/ # EF Core + SQLite
-└── todoapp-client/ # React Frontend
+├── TodoApp.API/
+├── TodoApp.Application/
+├── TodoApp.Domain/
+├── TodoApp.Infrastructure/
+└── todoapp-client/
 
 ## Setup Instructions
 
