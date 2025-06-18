@@ -43,4 +43,4 @@ Tasks are highlighted in red if overdue
 Enforced business rule: Title must be > 10 characters
 Clean Architecture separation between layers
 
-Designed and developed by Your Nisar Ahmad
+Designed and developed by Nisar Ahmad
